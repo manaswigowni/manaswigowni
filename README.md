@@ -1,7 +1,8 @@
-## Hi there 👋
+## GOWNI MANASWI
 
 
-- 🎓 Computer Science and Engineering undergrad at **Chaitanya Bharathi Institute of Technology (CBIT)**  
+- 🎓 Computer Science and Engineering undergrad at **Chaitanya Bharathi Institute of Technology (CBIT)**
+-  Full-Stack Developer | ML Enthusiast|  Passionate about Computer Vision
 ### SKILLS
 
 
